@@ -1,18 +1,14 @@
-# Python
 __pycache__/
 *.py[cod]
-*.class
-*.so
-.Python
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-.idea/
-.vscode/
+*.pyo
 *.db
 *.log
 *.sqlite3
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
 .DS_Store
 Thumbs.db
